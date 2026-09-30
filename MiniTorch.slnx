@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MiniTorch.vcxproj" Id="a84b5bb6-9732-4a3d-b655-8cc997c61c26" />
+</Solution>
